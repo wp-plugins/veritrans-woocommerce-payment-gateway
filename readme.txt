@@ -33,12 +33,18 @@ Payment Method Feature:
 The manual installation method involves downloading our feature-rich plugin and uploading it to your webserver via your favourite FTP application..
 
 1. Download the plugin file to your computer and unzip it
-2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation’s wp-content/plugins/ directory.
+2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory.
 3. Activate the plugin from the Plugins menu within the WordPress admin.
 
 = Upgrading =
 
 Automatic updates should work a charm, as always though, ensure you backup your site just in case. 
+
+== Screenshots ==
+
+1. VT Direct.
+2. VT Web.
+3. VT Direct at Checkout Form.
 
 == Frequently Asked Questions == 
 
