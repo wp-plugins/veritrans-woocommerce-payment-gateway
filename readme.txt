@@ -20,6 +20,7 @@ Payment Method Feature:
 <li>VT Direct</li>
 </ul>
 
+[youtube http://youtu.be/9t_yI1q3sgU]
 == Installation ==
 
 = Minimum Requirements =
