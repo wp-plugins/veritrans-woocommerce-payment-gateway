@@ -1,4 +1,4 @@
-=== Veritrans Woocommerce Payment Gateway ===
+=== Veritrans WooCommerce Payment Gateway ===
 Contributors: colorlabs
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@colorlabsproject.com&item_name=Donation+for+Veritrans
 Requires at least: WordPress 3.1.0
@@ -7,11 +7,11 @@ Stable tag: trunk
 License: GPLv3 or later
 Tags: WooCommerce, Payment, Gateway, Shopping Cart, Extension, Recurring Billing, Membership, Ecommerce, Integration, 
 
-Make your Woocommerce store integration with Veritrans payment gateway.
+Integrated your WooCommerce store integration with Veritrans payment gateway.
 
 == Description ==
 
-Veritrans payment gateway is an online payment gateway that is highly concerned with customer experience (UX). They strive to make payments simple for both the merchant and customers. With this plugin you can make your Woocommerce store using Veritrans payment.
+Veritrans payment gateway is an online payment gateway that is highly concerned with customer experience (UX). They strive to make payments simple for both the merchant and customers. With this plugin you can make your WooCommerce store using Veritrans payment.
 
 Payment Method Feature:
 
