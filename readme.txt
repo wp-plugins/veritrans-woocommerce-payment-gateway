@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv3 or later
 Tags: WooCommerce, Payment, Gateway, Shopping Cart, Extension, Recurring Billing, Membership, Ecommerce, Integration, 
 
-Integrated your WooCommerce store integration with Veritrans payment gateway.
+Let your WooCommerce store integrated with Veritrans payment gateway.
 
 == Description ==
 
