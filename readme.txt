@@ -25,9 +25,10 @@ Payment Method Feature:
 
 = Minimum Requirements =
 
-* WordPress 3.3 or greater
+* WordPress 3.5 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
+* WooCommerce Version 2.1 or greater
 
 = Manual installation =
 
@@ -54,6 +55,13 @@ Automatic updates should work a charm, as always though, ensure you backup your 
 Bugs can be reported in our [ColorLabs Support Desk](http://colorlabsproject.com/resolve/) or you can also use wordpress plugins support for reporting bugs and error.
 
 == Changelog ==
+
+= 1.1.0 = 
+
+* Add: Compatibility with WooCommerce version 2.1.x
+* Fix: Token request API as veritrans use new API endpoint
+* Fix: Veritrans VT-Web method
+* Fix: Remove name attribute from Credit card form for prevent sending data to merchant server
 
 = 1.0.0 =
 
