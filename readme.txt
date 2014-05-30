@@ -56,6 +56,9 @@ Bugs can be reported in our [ColorLabs Support Desk](http://colorlabsproject.com
 
 == Changelog ==
 
+= 1.2.0 =
+* Add: Veritrans 2.0 Support
+
 = 1.1.0 = 
 
 * Add: Compatibility with WooCommerce version 2.1.x
