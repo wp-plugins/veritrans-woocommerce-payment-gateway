@@ -1,8 +1,8 @@
 === Veritrans WooCommerce Payment Gateway ===
 Contributors: colorlabs
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@colorlabsproject.com&item_name=Donation+for+Veritrans
-Requires at least: WordPress 3.1.0
-Tested up to: WordPress 3.7.1
+Requires at least: WordPress 3.5.0
+Tested up to: WordPress 4.2.0
 Stable tag: trunk
 License: GPLv3 or later
 Tags: WooCommerce, Payment, Gateway, Shopping Cart, Extension, Recurring Billing, Membership, Ecommerce, Integration, 
